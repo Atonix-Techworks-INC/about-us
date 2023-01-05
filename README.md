@@ -5,7 +5,7 @@ Atonix Techworks Exists From A Few Students Who Love Programming And Thinkering 
 
 Soulzay - C#, Lua, Python,
 Nam3 - C#,
-JoeIsGod - C++, Lua
+JoeIsGod - C++, Lua,
 ethanmcdonagh - C#, Lua,
-Ishanjit - C#
+Ishanjit - C#,
 we are mostly known with roblox exploits, keysystems, discord webhook spammers and more :-)
