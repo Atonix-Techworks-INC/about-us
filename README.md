@@ -1,14 +1,14 @@
 # about-us
 this is a description about us!
 # 
-Atonix Techworks Exists From A Few Students Who Love Programming And Thinkering mostly in C# and Lua
+Atonix Techworks Exists Out Of A Few Students Who Love Programming And Thinkering mostly in C# and Lua
 # 
 Soulzay - C#, Lua, Python,
 # 
 JoeIsGod - C++, Lua,
 # 
-codexdiscord - C#, Lua, C, C++, Kotlin, Java
-# 
-Ishanjit - C#, XAML, Lua,
-# 
-we are mostly known with roblox exploits, keysystems, discord webhook spammers and more :-)
+Huddy - C#.
+#
+MTyler1 - C#, XAML, C++
+#
+This Used To Be Known For A Roblox Exploit, But Me (Soulzay) Discontinued It And Left The Roblox Exploiting Community
