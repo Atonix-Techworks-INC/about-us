@@ -9,6 +9,6 @@ JoeIsGod - C++, Lua,
 # 
 Huddy - C#.
 #
-MTyler1 - C#, XAML, C++
+mTyler1 - C#, XAML, C++
 #
 This Used To Be Known For A Roblox Exploit, But Me (Soulzay) Discontinued It And Left The Roblox Exploiting Community
