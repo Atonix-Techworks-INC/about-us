@@ -9,4 +9,6 @@ JoeIsGod - C++, Lua.
 # 
 Yxild - C++, HTML, CSS, Lua, JS.
 #
+2Stroke/StarlordHimself - C#, WPF/XAML.
+#
 This Used To Be Known For A Roblox Exploit, But Me (Soulzay) Discontinued It And Left The Roblox Exploiting Community (maybe coming back as of 9-4-2024)
